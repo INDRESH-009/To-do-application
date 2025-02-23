@@ -106,10 +106,21 @@ npm install
 ### **3. Set Up Environment Variables**
 Create a `.env` file in both `backend/` and `blockchain/` folders with:
 ```bash
-ALCHEMY_API_KEY=your-alchemy-api-key
-PRIVATE_KEY=your-wallet-private-key
-IPFS_API_KEY=your-ipfs-api-key
-IPFS_SECRET=your-ipfs-secret
+ALCHEMY_SEPOLIA_URL:
+PRIVATE_KEY:
+PINATA_API_KEY:
+PINATA_SECRET_KEY:
+PINATA_JWT:
+CONTRACT_ADDRESS:
+```
+
+Create a `.env` file in `client/` folders with:
+```bash
+NEXT_PUBLIC_CONTRACT_ADDRESS:
+NEXT_PUBLIC_ALCHEMY_SEPOLIA_URL:
+CLOUDINARY_CLOUD_NAME:
+CLOUDINARY_API_KEY:
+CLOUDINARY_API_SECRET:
 ```
 
 ### **4. Deploy Smart Contracts**
