@@ -16,6 +16,19 @@ This is a **decentralized event ticket booking application** built on the **Ethe
 - **Cloudinary Integration**: Stores event images.
 
 ## User Flow
+
+### Events Page
+![Events Page](https://res.cloudinary.com/drxdayeg3/image/upload/v1740343114/Screenshot_2025-02-24_at_2.08.19_AM_fs8vkk.png)
+
+### Organizer Dashboard
+![Organizer Dashboard](https://res.cloudinary.com/drxdayeg3/image/upload/v1740343232/Screenshot_2025-02-24_at_2.10.15_AM_c2zbze.png)
+
+### Secondary Market
+![Secondary Market](https://res.cloudinary.com/drxdayeg3/image/upload/v1740343656/Screenshot_2025-02-24_at_2.17.24_AM_pd3fce.png)
+
+### Purchased Tickets & QR Code
+![Purchased Tickets](https://res.cloudinary.com/drxdayeg3/image/upload/v1740343887/Screenshot_2025-02-24_at_2.21.00_AM_utmkgy.png)
+
 1. **Landing Page** → Users visit the homepage.
 2. **Connect Wallet** → Users connect their MetaMask wallets.
 3. **Events Page** → Displays available events where users can book tickets.
@@ -156,8 +169,8 @@ npm run dev
 This project is licensed under the **MIT License**.
 
 ## Contributors
-- **Your Name** - [GitHub](https://github.com/your-username)
-- **Collaborator Name** - [GitHub](https://github.com/collaborator-username)
+- **Indresh** - [GitHub](https://github.com/INDRESH-009)
+- **Haryshwa** - [GitHub](https://github.com/haryshwa05)
 
 ---
 _This project is under active development. Contributions are welcome!_ 🚀
